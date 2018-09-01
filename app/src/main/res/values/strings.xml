@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Air Command</string>
+    <string name="devkings_cmd">am broadcast -a com.samsung.pen.INSERT --ez "penInsert" false --ez "isBoot" false</string>
+    <string name="no_root">Please grant root permission to the app to launch Air Command.</string>
+</resources>
